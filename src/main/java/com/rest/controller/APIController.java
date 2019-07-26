@@ -53,4 +53,6 @@ public class APIController {
         responseEntity.getBody();
 
     }
+
+    private void testBranchMethod1(){}
 }
