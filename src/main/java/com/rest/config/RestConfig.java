@@ -16,5 +16,7 @@ public class RestConfig {
 
     private void againMakingConfigMEthod(){}
 
+    private void addigMethod2(){}
+
 
 }
