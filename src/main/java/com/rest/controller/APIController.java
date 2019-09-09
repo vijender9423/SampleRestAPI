@@ -55,4 +55,6 @@ public class APIController {
     }
 
     private void testBranchMethod1(){}
+
+    private void testBranchMethod2(){}
 }
