@@ -60,4 +60,7 @@ public class APIController {
 
     private void testBranchMethod3(){}
 
+    private void testBranchMethod4(){}
+
+    private void testBranchMethod5(){}
 }
